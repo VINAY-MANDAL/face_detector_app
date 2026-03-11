@@ -6,6 +6,23 @@ This project detects human faces in real-time using a webcam and highlights them
 This project was created as part of my learning journey in **Computer Vision and Machine Learning**.
 
 ---
+## Project Structure
+
+face_detector_app
+│
+├── main.py
+├── haarcascade_frontalface_default.xml
+├── requirements.txt
+└── README.md
+
+---
+
+## Tech Stack
+
+- Python
+- OpenCV
+- Haar Cascade Classifier
+----
 
 ## 🚀 Features
 
